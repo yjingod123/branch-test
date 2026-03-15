@@ -2,6 +2,7 @@ const express = require('express');
 const router = express.Router();
 
 //은유 수정
+// 예진 수정
 
 // 데이터베이스를 대신할 간단한 데이터 배열
 const destinations = [
